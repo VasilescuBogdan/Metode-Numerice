@@ -1,0 +1,6 @@
+﻿  PivotareTotala.cpp
+D:\Metode Numerice\Lab2\Lab2\PivotareTotala.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Metode Numerice\Lab2\Lab2\PivotareTotala.cpp(51,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Metode Numerice\Lab2\Lab2\PivotareTotala.cpp(53,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Metode Numerice\Lab2\Lab2\PivotareTotala.cpp(77,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Lab2.vcxproj -> D:\Metode Numerice\Lab2\Debug\Lab2.exe

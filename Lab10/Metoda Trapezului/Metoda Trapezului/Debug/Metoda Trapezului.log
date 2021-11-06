@@ -1,0 +1,4 @@
+﻿  Trapez.cpp
+D:\Metode Numerice\Lab10\Metoda Trapezului\Metoda Trapezului\Trapez.cpp(38,48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Metode Numerice\Lab10\Metoda Trapezului\Metoda Trapezului\Trapez.cpp(41): warning C4715: 'f': not all control paths return a value
+  Metoda Trapezului.vcxproj -> D:\Metode Numerice\Lab10\Metoda Trapezului\Debug\Metoda Trapezului.exe
